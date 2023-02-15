@@ -17,7 +17,8 @@ With professional experience in analyzing cryptocurrency models and improving th
 My strong background in teaching and tutoring mathematics to students of various levels of comprehension has led to over 100 individuals successfully tutored by me. I use a variety of techniques and tools, such as interactive exercises, visual aids, and hands-on activities to assist students in learning and retaining new ideas and abilities.
 
 As a versatile professional, I am able to tackle subjects like Algebra, Calculus, Discrete mathematics, and have experience with programming languages such as Rust, Python, Maple, and Excel (VBA), capable of implementing mathematical models on them.
-Research Interests 📈
+
+## Research Interests 📈
 
 My research interests include Decentralized Finance, Traditional Finance, and Algebraic Curves, Commutative Algebra, Combinatorics and Algebraic Geometry. I have published a few papers in the field and have been invited to participate in several talks and conferences.
 
