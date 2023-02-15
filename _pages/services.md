@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Services"
-permalink: /cvservices/
+permalink: /services/
 author_profile: true
 ---
 
