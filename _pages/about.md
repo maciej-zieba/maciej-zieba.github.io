@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to My Website!"
+title: "Welcome to My Website! 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## Welcome to My Website! 👋
 
 I'm Maciej, an applied mathematician with a passion for solving practical problems using mathematical theories and concepts. Currently in my second year of doctoral school at the Pedagogical University of Cracow under the supervision of [Tomasz Szemberg](https://szemberg.up.krakow.pl). I am continuously expanding my knowledge in this field.
 
