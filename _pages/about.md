@@ -25,9 +25,9 @@ My research interests include Decentralized Finance, Traditional Finance, and Al
 
 ## Additional Subsites 📄
 
-    - Check out my CV to learn more about my qualifications and professional experience.
-    - My Publications page contains a list of my published papers and research.
-    - See my Talks and Projects to find out more about my experience.
-    - Interested in my services? Head over to my Services page to learn more about how I can help you.
+- Check out my CV to learn more about my qualifications and professional experience.
+- My Publications page contains a list of my published papers and research.
+- See my Talks and Projects to find out more about my experience.
+- Interested in my services? Head over to my Services page to learn more about how I can help you.
 
 **Thank you for visiting my website, please don’t hesitate to contact me if you have any questions or inquiries.**
