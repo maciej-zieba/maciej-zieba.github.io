@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Check my CV [HERE](/files/Resume_Maciej_Zieba.pdf)
+
+<!-- {% include base_path %}
 
 TODO
 
@@ -59,4 +61,4 @@ TODO
 
 # Service and leadership
 
-- Currently signed in to 43 different slack teams
+- Currently signed in to 43 different slack teams -->
