@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Maciej, an applied mathematician with a passion for solving practical problems using mathematical theories and concepts. Currently in my second year of doctoral school at the Pedagogical University of Cracow under the supervision of [Tomasz Szemberg](https://szemberg.up.krakow.pl). I am continuously expanding my knowledge in this field.
+I’m Maciej, a 24-year-old applied mathematician with a passion for solving practical problems using mathematical theories and concepts. Currently in my second year of doctoral school at the Pedagogical University of Cracow under the supervision of [Tomasz Szemberg](https://szemberg.up.krakow.pl), I am continuously expanding my knowledge in this field.
 
 ## Expertise and Experience 💼
 
