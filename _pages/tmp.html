@@ -5,31 +5,34 @@ permalink: /tmp/
 author_profile: true
 ---
 
-<script>
-  // Set the date we're counting down to
-  var birth = new Date("Oct 10, 1998 10:00:00").getTime();
+<head>
+  {% include head.html %} {% include head/custom.html %}
+  <script>
+    // Set the date we're counting down to
+    var birth = new Date("Oct 10, 1998 10:00:00").getTime();
 
-  // Update the count down every 1 second
-  var x = setInterval(function () {
-    // Get today's date and time
-    var now = new Date().getTime();
+    // Update the count down every 1 second
+    var x = setInterval(function () {
+      // Get today's date and time
+      var now = new Date().getTime();
 
-    // Find the distance between now and the count down date
-    var distance = now - birth;
+      // Find the distance between now and the count down date
+      var distance = now - birth;
 
-    // Time calculation
-    var years = distance / (1000 * 60 * 60 * 24 * 365);
+      // Time calculation
+      var years = distance / (1000 * 60 * 60 * 24 * 365);
 
-    // Output the result in an element with id="age"
-    document.getElementById("age").innerHTML = "MY" + years;
+      // Output the result in an element with id="age"
+      document.getElementById("age").innerHTML = "MY" + years;
 
-    // If the count down is over, write some text
-    if (distance < 0) {
-      clearInterval(x);
-      document.getElementById("age").innerHTML = "EXPIRED";
-    }
-  }, 1000);
-</script>
+      // If the count down is over, write some text
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("age").innerHTML = "EXPIRED";
+      }
+    }, 1000);
+  </script>
+</head>
 
 <p>My</p>
 <p id="age"></p>
