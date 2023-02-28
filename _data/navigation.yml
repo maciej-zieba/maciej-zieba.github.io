@@ -15,5 +15,5 @@ main:
   - title: "Services"
     url: /services/
 
-    - title: "Calendar"
+  - title: "Calendar"
     url: /calendar/
