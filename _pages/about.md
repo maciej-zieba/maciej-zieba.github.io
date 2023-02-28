@@ -29,4 +29,4 @@ My research interests include Decentralized Finance, Traditional Finance, and Al
 - See my [Talks](https://maciej-zieba.github.io/talks/) and [Projects](https://maciej-zieba.github.io/projects/) to find out more about my experience.
 - Interested in my [services](https://maciej-zieba.github.io/services/)? Head over to my Services page to learn more about how I can help you.
 
-**Thank you for visiting my website, please don’t hesitate to [contact me](mailto:maciejbaartlomiejzieba@gmail.com) if you have any questions or inquiries.**
+**Thank you for visiting my website, please don’t hesitate to [contact me](mailto:maciejbartlomiejzieba@gmail.com) if you have any questions or inquiries.**
